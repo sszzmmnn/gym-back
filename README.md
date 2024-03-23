@@ -6,5 +6,5 @@ Backend implementation of a gym-themed website, created as a part of my universi
 
 Related Repositories:
 - [Frontend](https://github.com/sszzmmnn/gym-front)
-- [Backend](https://github.com/sszzmmnn/gym-admin)
+- [Admin Panel](https://github.com/sszzmmnn/gym-admin)
 
